@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1044430954378",
+    "project_id": "kartikey-cyber-security",
+    "storage_bucket": "kartikey-cyber-security.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044430954378:android:38b4a2695ae47191143273",
+        "android_client_info": {
+          "package_name": "com.kartikeyraghav.cyborg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044430954378-r8ei79hisel13ds4c7cuhml7u2vj6d05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kartikeyraghav.cyborg",
+            "certificate_hash": "361ac5fe35c547e825a7356fe2abdb63e3e1a8e3"
+          }
+        },
+        {
+          "client_id": "1044430954378-v8tu8ttt8hps17pp6buruqtfh8ggl8cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLPemArlIMPtg3Ia3achXPE8S9RJX5Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044430954378-9pa6ao9j6k64kn5vav5eipvl3715fhko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044430954378-15u70drl1n8kilg8covt8c5vf0mmnt9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kartikeyraghav.cyborg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
